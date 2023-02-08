@@ -5,7 +5,7 @@
 }
 
 .wrapper {
-    margin: 150px;
+    margin: 140px;
     padding: 10px;
     background-color: #C4C4C4;
 }
@@ -20,7 +20,7 @@
     background-color: #FC8F8F;
     height: 150px;
     width: 150px;
-    
+
     font-size: 100px;
     text-align: center;
     float: left;
@@ -45,10 +45,10 @@
     margin-left: 10px;
 }
 
-.second{
-    margin-left:  443px;
+.second {
+    margin-left: 443px;
 }
 
-.third{
-margin-left: 303px;
+.third {
+    margin-left: 303px;
 }
